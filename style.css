@@ -16,7 +16,7 @@ a {
     font-size: 18px;
 
 }
-img {
+.firstcontainer img {
     width: 400px;
     height: 200px;
     align-self: center
@@ -61,4 +61,45 @@ button {
 .titletext {
     font-size: 18px;
     color: white;
+}
+
+/* Img/Subtext */
+
+.secondback {
+    background: whitesmoke;
+    
+}
+
+.containerinfo {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+    justify-content: center;
+}
+
+.randominfo {
+    text-align: center;
+    font-weight: 800;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.info {
+    max-width: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.info img {
+    width: 200px;
+    height: 150px;
+    border: 1px solid;
+    border-radius: 10%;
+}
+
+.subtext {
+    text-align: center
 }
