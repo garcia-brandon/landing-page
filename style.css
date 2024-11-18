@@ -67,7 +67,7 @@ button {
 
 .secondback {
     background: whitesmoke;
-    
+    height: 300px;
 }
 
 .containerinfo {
@@ -103,3 +103,28 @@ button {
 .subtext {
     text-align: center
 }
+
+/* Quote Container */
+
+.thirdback {
+    background-color: #e5e7eb;
+    height: 200px;
+    padding: 200px;
+    display: flex;
+    flex-direction: column;
+    flex: 1
+}
+
+.quote {
+    font-size: 36px;
+    font-style:italic;
+    color: #1f2937;
+    text-align: center;
+}
+
+.thor {
+    text-align: right;
+    font-size: 32px;
+    color: black;
+}
+
