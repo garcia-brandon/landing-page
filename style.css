@@ -164,4 +164,17 @@ button {
 
 /* Footer */
 
+.footercontainer {
+    background-color: #1f2937;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+}
 
+.copyright {
+    color: white;
+
+}
+
+/* Hi Douglas */
