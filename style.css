@@ -128,3 +128,40 @@ button {
     color: black;
 }
 
+/* Call to action */
+
+.fourthback {
+    background-color: white;
+    padding: 60px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+}
+
+.actionbox {
+    background-color:#3882F6;
+    display: flex;
+    align-items: center;
+    width: 700px;
+    justify-content: space-between;
+    border-radius: 2%;
+    padding: 15px;
+}
+
+.actionfont {
+    color: white;
+    font-size: 20px;
+}
+.signup {
+    color:#e5e7eb;
+    font-size: 15px;
+}
+
+.actionbox button {
+    border-color: white;
+    border-radius: 5%;
+}
+
+/* Footer */
+
+
